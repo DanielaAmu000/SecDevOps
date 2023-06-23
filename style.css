@@ -1,0 +1,53 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p1/7442143-fundo-de-gradiente-abstrato-com-cores-verde-e-azul-gradiente-fundo-para-papeis-de-parede-cartazes-folhetos-banners-folhetos-e-mais-gratis-vetor.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    padding: 8px;
+    margin-bottom: 10px;
+    width: 200px;
+  }
+  
+  input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #555;
+  }
+  
+  #message {
+    margin-top: 20px;
+    font-style: italic;
+  }
+  
+  /* Estilos adicionales */
+  /* Agrega estilos adicionales según tus preferencias */
+  
